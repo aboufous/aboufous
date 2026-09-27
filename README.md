@@ -1,4 +1,4 @@
-﻿# Adam Boufous
+# Adam Boufous
 
 Élève ingénieur en mathématiques appliquées (INSA Rouen), en double diplôme avec le M2 Ingénierie Statistique et Financière (Dauphine – PSL).
 
