@@ -6,6 +6,7 @@ Recherche un **stage de fin d'études de 6 mois à partir d'avril 2027** en fina
 
 ## Projets
 - **[Pricing d'options européennes](https://github.com/aboufous/ProjetJavaFX-ValorisationOptions)** : Black–Scholes et Monte Carlo parallélisé (Java)
+- **[Optimisation de portefeuille – équation HJB](https://github.com/aboufous/HJB-Merton-Portfolio-Optimization)** : modèle de Merton, différences finies, étude de convergence (Python)
 - **[Recherche k-NN avec k-d tree](https://github.com/aboufous/scalable-similarity-search-kdtree)** : requêtes jusqu'à ~1 000× plus rapides (Python)
 - **[Application web NLP](https://github.com/aboufous/beauty-review-webapp-nlp)** : recherche floue et modèle de classification (Streamlit)
 
